@@ -17,7 +17,7 @@ The dataset consists of news articles collected from public sources i.e BBC News
 We kept only Classes:
 - Sport
 - Politics
-- 
+
 The data is divided into:
 
 - Training Set (80%)
