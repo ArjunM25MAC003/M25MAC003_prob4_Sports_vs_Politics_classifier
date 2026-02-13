@@ -32,14 +32,14 @@ The data is divided into:
 
 ---
 
-## 🤖 Models Implemented
+##  Models Implemented
 1. Naive Bayes
 2. Logistic Regression
 3. Support Vector Machine (SVM)
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
