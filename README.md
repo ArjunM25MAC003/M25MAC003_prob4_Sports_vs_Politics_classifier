@@ -1,4 +1,9 @@
 # Sport vs Politics Text Classification
+## 🔗 Project Files
+
+- Notebook: [Open Notebook](./notebooks/M25MAC003_prob4.ipynb)
+- Final Report: [Download Report](./report/Final_Report.pdf)
+
 # M25MAC003_prob4.ipynb
 # Original file is on Google colab
 
